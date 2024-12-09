@@ -199,7 +199,7 @@ footer a:hover {
 /* Responsive Design */
 
 /* Mobile View */
-@media(min-width: 320px) and (max-width: 425px) {
+@media(min-width: 320px) and (max-width: 768px) {
     header h1{
         font-size: 1.8rem;
     }
@@ -270,7 +270,7 @@ footer a:hover {
 }
 
 /* Tablet View  */
-@media (min-width:425px) and (max-width: 1023px) {
+@media (min-width:768px) and (max-width: 1023px) {
     header h1{
         font-size: 3rem;
     }
